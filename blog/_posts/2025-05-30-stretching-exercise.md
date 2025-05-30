@@ -1,5 +1,3 @@
-*This is an example blog post for the PM learning session!!!*
-
 ---
 title: "Scretching Before you Exercise - Important or Not?"
 description: "An exploration of why you might scretch before you exercise"

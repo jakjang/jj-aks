@@ -243,3 +243,17 @@ Sarah Zhou:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sarahjzhou/"
+
+John Smith:
+  name        : "John Smith"
+  bio         : "John is the Principal PM Lead for the Azure Kubernetes Service."
+  links:
+    - label: "X"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/jorgefpalma"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jpalma21"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/palma21"

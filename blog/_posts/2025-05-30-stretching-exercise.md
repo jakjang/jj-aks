@@ -1,14 +1,14 @@
 ---
 title: "Scretching Before you Exercise - Important or Not?"
 description: "An exploration of why you might scretch before you exercise"
-date: 2025-05-29
+date: 2025-05-30
 author: Jack Jiang
 categories: 
-   - general
-   - operations
+- general
+- ai
 ---
 
-## Section 1 
+## Getting Started with Stretching
 
 I want to use a table here.
 
@@ -23,14 +23,15 @@ I want to use a table here.
 |--|--|
 |AKS Automatic|Passed|
 
-## Section 2
+## Injuries you might get if you don't stretch
 
 I want to embed my image here:
 
 ![Super Serious Picture](/AKS/assets/images/pm-leaning/serious_stuff.jpg)
 
-## Section 3
+
+## Long life, stretch!
 
 I want to embed a YouTube video here:
 
-{% include video id="Lc6db8qfZEw" provider="youtube" %}
+{% include video id="s2v7RTgsAGg" provider="youtube" %}
